@@ -1,0 +1,16 @@
+{
+  "name": "mjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "shack dev",
+    "build": "shack build",
+    "start": "shack start"
+  },
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "@shack-js/cli": "^1.0.24"
+  }
+}
