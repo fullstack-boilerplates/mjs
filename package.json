@@ -2,10 +2,11 @@
   "name": "mjs",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "scripts": {
-    "dev": "shack dev",
+    "dev": "shack dev -e .js",
     "build": "shack build",
-    "start": "shack start"
+    "start": "shack start -e .js"
   },
   "keywords": [],
   "author": "",
